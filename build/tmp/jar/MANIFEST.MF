@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.aquariusclient.json
+tweakClass: me.fizzify.aquariusclient.launch.AquariusClientTweaker
+

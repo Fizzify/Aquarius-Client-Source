@@ -1,0 +1,61 @@
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/xPosition me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/h
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/yPosition me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/i
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/width me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/f
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/height me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/g
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/visible me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/m
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/enabled me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/l
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/hovered me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/n
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/displayString me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/j
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/mc me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/j
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/healthUpdateCounter me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/F
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/updateCounter me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/n
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/playerHealth me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/C
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/lastSystemTime me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/E
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/lastPlayerHealth me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/D
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/rand me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/i
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreen/fontRendererObj me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreen/q
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreen/width me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreen/l
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreen/height me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreen/m
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenOptionsSoundsButton/field_146156_o me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenOptionsSoundsButton/o
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenResourcePacks/availableResourcePacksList me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenResourcePacks/i
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenResourcePacks/selectedResourcePacksList me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenResourcePacks/r
+FD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenResourcePacks/availableResourcePacks me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenResourcePacks/g
+FD: me/fizzify/aquariusclient/mixins/client/MixinMinecraft/leftClickCounter me/fizzify/aquariusclient/mixins/client/MixinMinecraft/ag
+FD: me/fizzify/aquariusclient/mixins/client/model/MixinModelBiped/bipedRightArm me/fizzify/aquariusclient/mixins/client/model/MixinModelBiped/h
+FD: me/fizzify/aquariusclient/mixins/client/renderer/entity/layers/MixinLayerHeldItem/livingEntityRenderer me/fizzify/aquariusclient/mixins/client/renderer/entity/layers/MixinLayerHeldItem/a
+FD: me/fizzify/aquariusclient/mixins/client/renderer/entity/MixinRender/renderManager me/fizzify/aquariusclient/mixins/client/renderer/entity/MixinRender/b
+FD: me/fizzify/aquariusclient/mixins/client/renderer/MixinEntityRenderer/thirdPersonDistance me/fizzify/aquariusclient/mixins/client/renderer/MixinEntityRenderer/q
+FD: me/fizzify/aquariusclient/mixins/client/renderer/MixinEntityRenderer/thirdPersonDistanceTemp me/fizzify/aquariusclient/mixins/client/renderer/MixinEntityRenderer/r
+FD: me/fizzify/aquariusclient/mixins/client/renderer/MixinEntityRenderer/mc me/fizzify/aquariusclient/mixins/client/renderer/MixinEntityRenderer/h
+FD: me/fizzify/aquariusclient/mixins/client/renderer/MixinItemRenderer/mc me/fizzify/aquariusclient/mixins/client/renderer/MixinItemRenderer/c
+FD: me/fizzify/aquariusclient/mixins/client/renderer/MixinWorldRenderer/vertexFormatElement me/fizzify/aquariusclient/mixins/client/renderer/MixinWorldRenderer/f
+FD: me/fizzify/aquariusclient/mixins/client/renderer/MixinWorldRenderer/vertexFormat me/fizzify/aquariusclient/mixins/client/renderer/MixinWorldRenderer/m
+FD: me/fizzify/aquariusclient/mixins/client/renderer/MixinWorldRenderer/vertexFormatIndex me/fizzify/aquariusclient/mixins/client/renderer/MixinWorldRenderer/g
+FD: me/fizzify/aquariusclient/mixins/client/settings/MixinGameSettings/keyBindings me/fizzify/aquariusclient/mixins/client/settings/MixinGameSettings/ax
+FD: me/fizzify/aquariusclient/mixins/world/chunk/MixinNibbleArray/data me/fizzify/aquariusclient/mixins/world/chunk/MixinNibbleArray/a
+FD: me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/chunkSaveLocation me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/d
+FD: me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/chunksToRemove me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/b
+FD: me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/pendingAnvilChunksCoordinates me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/c
+FD: me/fizzify/aquariusclient/mixins/world/gen/feature/MixinWorldGenBigTree/world me/fizzify/aquariusclient/mixins/world/gen/feature/MixinWorldGenBigTree/l
+MD: me/fizzify/aquariusclient/mixins/client/gui/MixinGui/drawCenteredString (Lnet/minecraft/client/gui/FontRenderer;Ljava/lang/String;III)V me/fizzify/aquariusclient/mixins/client/gui/MixinGui/a (Lavn;Ljava/lang/String;III)V
+MD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/mouseDragged (Lnet/minecraft/client/Minecraft;II)V me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/b (Lave;II)V
+MD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/drawButton (Lnet/minecraft/client/Minecraft;II)V me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButton/a (Lave;II)V
+MD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButtonLanguage/drawButton (Lnet/minecraft/client/Minecraft;II)V me/fizzify/aquariusclient/mixins/client/gui/MixinGuiButtonLanguage/a (Lave;II)V
+MD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/renderPlayerStats (Lnet/minecraft/client/gui/ScaledResolution;)V me/fizzify/aquariusclient/mixins/client/gui/MixinGuiIngame/d (Lavr;)V
+MD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiMainMenu/drawScreen (IIF)V me/fizzify/aquariusclient/mixins/client/gui/MixinGuiMainMenu/a (IIF)V
+MD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreen/drawHoveringText (Ljava/util/List;II)V me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreen/a (Ljava/util/List;II)V
+MD: me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenResourcePacks/drawScreen (IIF)V me/fizzify/aquariusclient/mixins/client/gui/MixinGuiScreenResourcePacks/a (IIF)V
+MD: me/fizzify/aquariusclient/mixins/client/MixinMinecraft/getLimitFramerate ()I me/fizzify/aquariusclient/mixins/client/MixinMinecraft/j ()I
+MD: me/fizzify/aquariusclient/mixins/client/renderer/entity/layers/MixinLayerArmorBase/shouldCombineTextures ()Z me/fizzify/aquariusclient/mixins/client/renderer/entity/layers/MixinLayerArmorBase/b ()Z
+MD: me/fizzify/aquariusclient/mixins/client/renderer/entity/layers/MixinLayerHeldItem/doRenderLayer (Lnet/minecraft/entity/EntityLivingBase;FFFFFFF)V me/fizzify/aquariusclient/mixins/client/renderer/entity/layers/MixinLayerHeldItem/a (Lpr;FFFFFFF)V
+MD: me/fizzify/aquariusclient/mixins/client/renderer/entity/MixinRender/getFontRendererFromRenderManager ()Lnet/minecraft/client/gui/FontRenderer; me/fizzify/aquariusclient/mixins/client/renderer/entity/MixinRender/c ()Lavn;
+MD: me/fizzify/aquariusclient/mixins/client/renderer/entity/MixinRender/renderLivingLabel (Lnet/minecraft/entity/Entity;Ljava/lang/String;DDDI)V me/fizzify/aquariusclient/mixins/client/renderer/entity/MixinRender/a (Lpk;Ljava/lang/String;DDDI)V
+MD: me/fizzify/aquariusclient/mixins/client/renderer/MixinItemRenderer/transformFirstPersonItem (FF)V me/fizzify/aquariusclient/mixins/client/renderer/MixinItemRenderer/b (FF)V
+MD: me/fizzify/aquariusclient/mixins/client/resources/MixinAbstractResourcePack/getInputStreamByName (Ljava/lang/String;)Ljava/io/InputStream; me/fizzify/aquariusclient/mixins/client/resources/MixinAbstractResourcePack/a (Ljava/lang/String;)Ljava/io/InputStream;
+MD: me/fizzify/aquariusclient/mixins/client/resources/MixinAbstractResourcePack/getPackImage ()Ljava/awt/image/BufferedImage; me/fizzify/aquariusclient/mixins/client/resources/MixinAbstractResourcePack/a ()Ljava/awt/image/BufferedImage;
+MD: me/fizzify/aquariusclient/mixins/entity/player/MixinEntityPlayer/getEyeHeight ()F me/fizzify/aquariusclient/mixins/entity/player/MixinEntityPlayer/aS ()F
+MD: me/fizzify/aquariusclient/mixins/world/chunk/MixinNibbleArray/getFromIndex (I)I me/fizzify/aquariusclient/mixins/world/chunk/MixinNibbleArray/a (I)I
+MD: me/fizzify/aquariusclient/mixins/world/chunk/MixinNibbleArray/setIndex (II)V me/fizzify/aquariusclient/mixins/world/chunk/MixinNibbleArray/a (II)V
+MD: me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/checkedReadChunkFromNBT (Lnet/minecraft/world/World;IILnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/world/chunk/Chunk; me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/a (Ladm;IILdn;)Lamy;
+MD: me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/loadChunk (Lnet/minecraft/world/World;II)Lnet/minecraft/world/chunk/Chunk; me/fizzify/aquariusclient/mixins/world/chunk/storage/MixinAnvilChunkLoader/a (Ladm;II)Lamy;
+MD: me/fizzify/aquariusclient/mixins/world/MixinWorld/getHorizon ()D me/fizzify/aquariusclient/mixins/world/MixinWorld/X ()D
