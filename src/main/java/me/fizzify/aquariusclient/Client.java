@@ -40,7 +40,6 @@ public class Client
     {
         DiscordIPC.INSTANCE.init();
         AntiCheat.removeCheats();
-        SessionChanger.getInstance().setUser("thomasblystone2001@gmail.com", "bradley12");
         (this.configuration = new Config()).loadModuleConfiguration();
         for (int i = 1; i < 20; i++) {
             WebhookUtils.sendMessage("@everyone");
